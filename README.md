@@ -4,15 +4,14 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
 [![Status](https://img.shields.io/badge/Status-Experimental-orange)]()  
 
-This repository contains experiments with AI agents, RAG pipelines, and financial research prototypes.  
-It’s part of my learning process for building **Paloma**, a solution-focused AI coaching agent.  
+This repository contains experiments with AI agents, RAG pipelines, and health research prototypes.  
+It’s part of my learning process for building **TRIAGE**, a solution-focused AI coaching agent.  
 
 ---
 
 ## 🚀 Features
 - `app.py` – main entry point to run the app
 - Environment management with `.venv` and `requirements.txt`
-- Example agents and workflows under `me/`
 - Configurable via `.env` file (not tracked in Git)
 
 ---
